@@ -1,3 +1,6 @@
+[![codecov](https://codecov.io/gh/OmarElawady/ascii-table/branch/master/graph/badge.svg)](https://codecov.io/gh/OmarElawady/ascii-table)
+[![Build Status](https://travis-ci.com/OmarElawady/ascii-table.svg?branch=master)](https://travis-ci.com/OmarElawady/ascii-table)
+
 Ascii Table
 ===========
 
