@@ -37,7 +37,7 @@ class Table:
             row {list[str]} -- the row to be added
         """
         if self.len == 0:
-            self.len = row
+            self.len = len(row)
         if self.len == len(row):
             self.rows.append(row)
         else:
