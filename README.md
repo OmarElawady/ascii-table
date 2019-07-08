@@ -7,6 +7,7 @@ Ascii Table
 This is a script to print tables to the console.
 
 Full [documentation](https://omarelawady.github.io/asciitable/doc/).
+
 Usage
 =====
 
